@@ -17,4 +17,4 @@ database_version       = "POSTGRES_13"
 cloud_sql_database     = "dev"
 cloud_sql_user         = "sqladmin"
 
-openvscode_server_version = "1.66.0"
+openvscode_server_version = "1.70.0"
